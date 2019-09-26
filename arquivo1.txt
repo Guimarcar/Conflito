@@ -1,1 +1,2 @@
 Arquivo 1 criado pela branch master
+Conflito
